@@ -7,7 +7,7 @@
     <mnx-generic>
       <score-view id="page1" view="Lutoslawski.svg"/>
 
-      <!-- <performance-audio>
+      <performance-audio>
         <performance-audio-media src="Lutoslawski.ogg"/>
 
         <performance-mapping>
@@ -32,7 +32,7 @@
           <performance-region start="15" end="18" view="page1" region="m14"/>
           <performance-region start="18" end="28" view="page1" region="m15"/>
         </performance-mapping>
-      </performance-audio> -->
+      </performance-audio>
 
       <performance-data>
         <performance-tempo beat="/4" bpm="200"/>
