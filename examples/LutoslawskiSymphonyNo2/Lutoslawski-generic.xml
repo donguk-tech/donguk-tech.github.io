@@ -4,7 +4,7 @@
     <title>test<title/>
   </head>
   <score>
-    <gmnx>
+    <mnx-generic>
       <performance-data>
         <performance-tempo beat="/4" bpm="200"/>
         <performance-part/>
@@ -554,6 +554,6 @@
           <performance-event pitch="56" start="54.2677" duration="0.0833" dynamics="42"/>
         </performance-part>
       </performance-data>
-    </gmnx>
+    </mnx-generic>
   </score>
 </mnx>
